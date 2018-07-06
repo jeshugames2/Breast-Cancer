@@ -1,4 +1,4 @@
-# Breast-Cancer
+# Breast Cancer Classification
 
 Classifies the tissues as Benign or Maignant on the basis of various features using Naive Bayes. Dataset used is the Breast Cancer Wisconsin (Diagnostic) dataset.
 
